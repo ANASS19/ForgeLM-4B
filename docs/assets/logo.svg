@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="ForgeLM-4B logo">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset="1" stop-color="#112742"/></linearGradient><linearGradient id="c"><stop stop-color="#37c7eb"/><stop offset="1" stop-color="#a7bfff"/></linearGradient></defs>
+<rect width="200" height="200" fill="url(#bg)"/><path d="M0 1H200 M0 199H200" stroke="#39d9ef" stroke-opacity=".6" stroke-width="2"/>
+<g transform="translate(25 23)" fill="none" stroke="#64daf4" stroke-width="2"><path d="M0 40L68 5L135 40L68 78Z" stroke-opacity=".55"/><path d="M0 40V118L68 155L135 118V40M68 78V155" stroke-opacity=".4"/><path d="M24 40L68 18L110 40L68 62Z" stroke-opacity=".8"/><circle cx="68" cy="18" r="7" fill="#63e1f5"/><circle cx="24" cy="40" r="6" fill="#63e1f5"/><circle cx="110" cy="40" r="6" fill="#8dbbff"/><circle cx="68" cy="62" r="7" fill="#8dbbff"/></g>
+
+</svg>

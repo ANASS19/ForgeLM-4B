@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="ForgeLM-4B banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset="1" stop-color="#112742"/></linearGradient><linearGradient id="c"><stop stop-color="#37c7eb"/><stop offset="1" stop-color="#a7bfff"/></linearGradient></defs>
+<rect width="1200" height="250" fill="url(#bg)"/><path d="M0 1H1200 M0 249H1200" stroke="#39d9ef" stroke-opacity=".6" stroke-width="2"/>
+<g transform="translate(995 42)" fill="none" stroke="#64daf4" stroke-width="2"><path d="M0 40L68 5L135 40L68 78Z" stroke-opacity=".55"/><path d="M0 40V118L68 155L135 118V40M68 78V155" stroke-opacity=".4"/><path d="M24 40L68 18L110 40L68 62Z" stroke-opacity=".8"/><circle cx="68" cy="18" r="7" fill="#63e1f5"/><circle cx="24" cy="40" r="6" fill="#63e1f5"/><circle cx="110" cy="40" r="6" fill="#8dbbff"/><circle cx="68" cy="62" r="7" fill="#8dbbff"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="58" y="67" font-size="14" font-weight="600" letter-spacing="3" fill="#63e1f5">SCALING RESEARCH</text><text x="56" y="145" font-size="60" font-weight="700" fill="#eff8ff">ForgeLM-4B</text><text x="59" y="191" font-size="19" fill="#bacde5">Scale deliberately. Measure every decision.</text></g>
+</svg>
